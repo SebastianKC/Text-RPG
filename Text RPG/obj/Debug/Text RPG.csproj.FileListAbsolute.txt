@@ -15,3 +15,20 @@ C:\Users\sebzw\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.Generate
 C:\Users\sebzw\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.CopyComplete
 C:\Users\sebzw\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.exe
 C:\Users\sebzw\source\repos\Text RPG\Text RPG\obj\Debug\Text RPG.pdb
+C:\Repositories\Text RPG\Text RPG\bin\Debug\Text RPG.exe.config
+C:\Repositories\Text RPG\Text RPG\bin\Debug\Text RPG.exe
+C:\Repositories\Text RPG\Text RPG\bin\Debug\Text RPG.pdb
+C:\Repositories\Text RPG\Text RPG\bin\Debug\Engine.dll
+C:\Repositories\Text RPG\Text RPG\bin\Debug\Engine.pdb
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.csprojAssemblyReference.cache
+C:\Repositories\Text RPG\Text RPG\obj\Debug\MainWindow.g.cs
+C:\Repositories\Text RPG\Text RPG\obj\Debug\App.g.cs
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG_MarkupCompile.cache
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG_MarkupCompile.lref
+C:\Repositories\Text RPG\Text RPG\obj\Debug\MainWindow.baml
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.g.resources
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text_RPG.Properties.Resources.resources
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.GenerateResource.cache
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.csproj.CopyComplete
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.exe
+C:\Repositories\Text RPG\Text RPG\obj\Debug\Text RPG.pdb
