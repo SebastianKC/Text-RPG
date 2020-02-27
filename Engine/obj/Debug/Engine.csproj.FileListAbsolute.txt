@@ -4,3 +4,9 @@ C:\Users\sebzw\source\repos\Text RPG\Engine\obj\Debug\Engine.dll
 C:\Users\sebzw\source\repos\Text RPG\Engine\obj\Debug\Engine.pdb
 C:\Users\sebzw\source\repos\Text RPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
 C:\Users\sebzw\source\repos\Text RPG\Engine\obj\Debug\Engine.g.resources
+C:\Repositories\Text RPG\Engine\bin\Debug\Engine.dll
+C:\Repositories\Text RPG\Engine\bin\Debug\Engine.pdb
+C:\Repositories\Text RPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Repositories\Text RPG\Engine\obj\Debug\Engine.g.resources
+C:\Repositories\Text RPG\Engine\obj\Debug\Engine.dll
+C:\Repositories\Text RPG\Engine\obj\Debug\Engine.pdb
